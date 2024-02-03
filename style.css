@@ -12,9 +12,12 @@
 #Img1 {
     display: flex;
     align-items: center;
-    width: 150%;
-    height: 150%;
     justify-content: center;
+    width: 20%;
+}
+
+#Bailey-Pic {
+    width: 100%;
 }
 
 #Favorite-Things {
