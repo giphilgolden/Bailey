@@ -18,6 +18,8 @@
 }
 
 #Favorite-Things {
+    text-align: center;
+    text-wrap: auto;
     font-size: 500%;
 }
 
