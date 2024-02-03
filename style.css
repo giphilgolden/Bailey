@@ -19,7 +19,7 @@
 
 #Favorite-Things {
     text-align: center;
-    text-wrap: auto;
+    word-wrap: normal;
     font-size: 500%;
 }
 
@@ -50,6 +50,16 @@ height: 350px;
 }
 
 #Img6 {
+    width: 500px;
+    height: 350px;
+}
+
+#Img7 {
+    width: 500px;
+    height: 350px;
+}
+
+#Img8 {
     width: 500px;
     height: 350px;
 }
@@ -85,3 +95,14 @@ height: 350px;
     flex-direction: column;
 }
 
+#Squirels {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#Friends {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
